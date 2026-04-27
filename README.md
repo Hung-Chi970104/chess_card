@@ -1,4 +1,4 @@
-# Pico Gameboy
+# Pico Chess Card
 Ever think of playing chess on the size of a business card? Welcome to the Pico Chess Card!
 
 After building my Tic-Tac-Toe business card, I decided to build a more advanced version that allows users to play chess, compete online through radio, and even compete against AI!
