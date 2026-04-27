@@ -5,7 +5,7 @@ After building my Tic-Tac-Toe business card, I decided to build a more advanced 
 
 ![demo](assets/demo.png)
 
-https://github.com/user-attachments/assets/2522f16b-cdb1-4d87-a4fb-f251e9c66011
+https://github.com/user-attachments/assets/676e2b21-aca0-44f8-8b26-b48a64608b89
 
 # Features
 - Pass-and-play mode (like one device but two people take turn)
