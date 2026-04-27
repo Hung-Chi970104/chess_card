@@ -26,8 +26,8 @@ I came across with this DIY Gameboy video made of Raspberry Pi Pico and inspired
 ![schemtatic](assets/schematic.svg)
 
 ## PCB Layouts
-![pcb_front](assets/chess_card-B_Cu.svg)
-![pcb_back](assets/chess_card-F_Cu.svg)
+![pcb_front](assets/chess_card-F_Cu.svg)
+![pcb_back](assets/chess_card-B_Cu.svg)
 ![pcb_design](assets/pcb.png)
 
 ## 3D Model
