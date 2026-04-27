@@ -1,12 +1,13 @@
 # Pico Gameboy
-I came across with this DIY Gameboy video made of Raspberry Pi Pico and inspired me to build my own version. The fact that RP2040 has dual-core ARM Cortex-M0+ processor makes it capable of running some light emulators. So I’ll build a little handheld game console using RP2040 that can run gameboy!
+Ever think of playing chess on the size of a business card? Welcome to the Pico Chess Card!
+After building my Tic-Tac-Toe business card, I decided to build a more advanced version that allows users to play chess, compete online through radio, and even compete against AI!
 
 ![demo](assets/demo.png)
 
 # Features
-- Full-on Gameboy experience: Actually runs the classics smoothly without freaking out.
-- Insanely portable: Squeezed everything into a super compact custom PCB so you can just chuck it in your pocket.
-- 100% Custom Hardware: Fully designed, routed, and reflowed by yours truly (my eyes are still bleeding from staring at KiCad traces bruh).
+- Pass-and-play mode (like one device but two people take turn)
+- Online 1v1 through nrf24l01 (*Will be added in V2!)
+- NFC tap to either go to websites or pairing mode
 
 # Components
 - RP2040
